@@ -1,7 +1,8 @@
 repo_name: ibrahimbayramli/SpringDemo1
 report_id: 6796c27c4d95c818d969b93e7026df72
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T20:53:18+00:00'
+timestamp: '2024-01-04T15:12:23+00:00'
 requested_by: ibrahimbayramli
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ibrahimbayramli/SpringDemo1
   detection_source: Repo Metadata
 - name: Spring Framework
   description: An application framework and inversion of control container for the
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/ibrahimbayramli/SpringDemo1/blob/main/pom.xml
   detection_source: pom.xml
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-07-06 22:08:45.000000000 Z
@@ -38,6 +41,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/ibrahimbayramli/SpringDemo1/blob/main/pom.xml
   detection_source: pom.xml
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-07-06 22:08:45.000000000 Z
@@ -49,6 +53,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ibrahimbayramli/SpringDemo1
   detection_source: Repo Metadata
 - name: Apache Camel
   description: A versatile open source integration framework
@@ -59,6 +64,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/ibrahimbayramli/SpringDemo1/blob/main/src/main/resources/application.properties
   detection_source: src/main/resources/application.properties
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-07-06 22:08:45.000000000 Z
